@@ -1,0 +1,29 @@
+.signIn{
+    background-image: url(https://media.istockphoto.com/id/1300810952/photo/icon-like-heart-on-instagram-social-media-concept.jpg?b=1&s=612x612&w=0&k=20&c=Cpe4OXNPhpuPUHFMBvFOegQOnPbfQeM5Aa8su4MLfMc=);
+    background-size: cover;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginForm{
+    background-color: #ffffff4d;
+    padding: 30px;
+    border: 1px solid rgb(241, 91, 91);
+    border-radius: 10px;
+}
+.loginForm2{
+    background-color: #ffffff4d;
+    padding: 20px;
+    margin-top: 5px;
+    border-radius: 10px;
+    border: 1px solid rgb(241, 91, 91);
+}
+#login-btn{
+    background-color: #1773EA;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+}
