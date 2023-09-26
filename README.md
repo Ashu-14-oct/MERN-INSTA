@@ -44,4 +44,4 @@ Follow these steps to get the project up and running on your local machine:
    ```bash
    cd ../backend
    npm start
-6. Open your web browser and visit http://localhost:3000 to use the application.
+6. Open your web browser and visit http://localhost:8000 to use the application.
