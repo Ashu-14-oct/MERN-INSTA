@@ -2,7 +2,6 @@
 
 Welcome to the Instagram Clone project, built using the MERN (MongoDB, Express.js, React, Node.js) stack. This project aims to replicate some of the key features of Instagram, including user registration, image uploads, and more.
 
-**Demo**: [Live Demo](https://lovely-tuna-turtleneck.cyclic.cloud/signup)
 
 ## Features
 
